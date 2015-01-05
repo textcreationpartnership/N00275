@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <body>
          <div type="laws">
-            <pb facs="tcp:000350_0000_0FA4AD326EC66938"/>
-            <pb n="98" facs="tcp:000350_0001_0FA4AD35496286E0"/>
+            <pb facs="unknown:000350_0000_0FA4AD326EC66938"/>
+            <pb n="98" facs="unknown:000350_0001_0FA4AD35496286E0"/>
             <head>
                <figure/> SEVERAL LAWS MADE AT THE SECOND SESSIONS OF THE General Court <hi>Held at BOSTON</hi>
                <date>October 10. 1683.</date>
@@ -121,7 +121,7 @@ And Published by their Order: <hi>Edward Rawson</hi> Secr.</head>
                   <hi>Law as Pub<g ref="char:EOLhyphen"/>lick Charges Repealed from</hi> June 10 1684.</note> Impost upon all goods &amp; Provisions, with any Explanation or Addition made thereunto; and the Law Title Publick Charges, Section the third, referring to the Treasurer, issuing out Warrants to the Constables, for Collecting of Assessments yearly, shall be and remain in force for the present Year, and until the tenth day of <hi>June,</hi> which will be in the Year <hi>Sixteen hun<g ref="char:EOLhyphen"/>dred eighty and four,</hi> and for no longer time; Any Law, Usage or Custome to the contrary notwithstanding.</p>
             <p>
                <pb n="99"
-                   facs="tcp:000350_0002_0FA4AD37430A1B50"
+                   facs="unknown:000350_0002_0FA4AD37430A1B50"
                    rendition="simple:additions"/>
                <hi>AS an Addition to the Law</hi> Title <hi>Schools</hi>:</p>
             <p>This Court doth Order and Enact; That every Town consisting of more than five hundred Families or Housholders, shall set up,<note place="margin">
